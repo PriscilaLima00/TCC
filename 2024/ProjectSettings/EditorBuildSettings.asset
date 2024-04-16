@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/TCC/Scenes/Inatialization.unity
+    guid: c1d37934912ab184c9789ba655f2ec84
+  - enabled: 1
+    path: Assets/TCC/Scenes/Gameplay.unity
+    guid: 5ae989572b3d51b4f801e0841adc2ae8
+  - enabled: 1
+    path: Assets/TCC/Scenes/Splash.unity
+    guid: 0fdd7020831516042bfe294773317616
+  - enabled: 1
+    path: Assets/TCC/Scenes/MainMenu.unity
+    guid: 16c21a0417e9c1545aef9f641b5ef1d7
+  - enabled: 1
+    path: Assets/TCC/Scenes/GUI.unity
+    guid: d63fb6f80e5f7af40ab101f50c26b740
   m_configObjects: {}
