@@ -7,7 +7,7 @@ public class SplashManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Invoke("LoadMainMenu", 10f);
+        Invoke("LoadMainMenu", 3f);
     }
 
     private void LoadMainMenu()
