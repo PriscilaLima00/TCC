@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb5f6421-ff03-401d-8b66-60b018fa9916" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.2024/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2024/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TCC/Images/logotipo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TCC/Images/logotipo2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TCC/Scenes/Splash.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TCC/Scenes/Splash.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TCC/Scripts/SplashManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TCC/Scripts/SplashManager.cs" afterDir="false" />
-    </list>
+    <list default="true" id="fb5f6421-ff03-401d-8b66-60b018fa9916" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,6 +96,7 @@
       <workItem from="1713269938372" duration="518000" />
       <workItem from="1713270475093" duration="4784000" />
       <workItem from="1713438816413" duration="931000" />
+      <workItem from="1721756465523" duration="3050000" />
     </task>
     <servers />
   </component>
